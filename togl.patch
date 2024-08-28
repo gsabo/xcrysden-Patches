@@ -1,0 +1,4 @@
+135c135
+<         _ANSI_ARGS_((Tk_Window, Tk_ClassProcs *, ClientData));
+---
+>         _ANSI_ARGS_((Tk_Window, const Tk_ClassProcs *, ClientData));
